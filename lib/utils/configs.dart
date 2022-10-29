@@ -5,9 +5,9 @@ const DOMAIN_URL =
     'https://ondemandservice.optimisttechhub.com'; // Don't add slash at the end of the url
 const BASE_URL = "$DOMAIN_URL/api/";
 
-const ONESIGNAL_APP_ID = '01e97a22-4721-475e-a96d-62948ebfbaf4';
-const ONESIGNAL_CHANNEL_ID = "0ee01f0d-2e1c-4554-9050-27dd9c020292";
-const ONESIGNAL_REST_KEY = "NzFhNDZjYTEtOWUzYS00NzgxLThlZDktODYyYWZmOTQ1ODJk";
+const ONESIGNAL_APP_ID = '2b5964fb-050d-4b5c-8528-7a97c0a94bfa';
+const ONESIGNAL_CHANNEL_ID = "a32cf784-b1e5-4f2c-bdd7-85b885948c4b";
+const ONESIGNAL_REST_KEY = "ZWMzYjZjZWQtYTQ4MS00MzU2LWIxYzQtZjQ4ZGJiNjE3OTZj";
 
 // const TERMS_CONDITION_URL = 'https://iqonic.design/terms-of-use/';
 // const PRIVACY_POLICY_URL = 'https://iqonic.design/privacy-policy/';
